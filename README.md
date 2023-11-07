@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apoorv Jain</h1>
-<h3 align="center">Getting Started As A Data Scientist.</h3>
+<h3 align="center">Getting Started As A Front-End Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorv-2711&label=Profile%20views&color=0e75b6&style=flat" alt="apoorv-2711" /> </p>
 
-- 🌱 I’m currently learning **Data science and Machine Learning**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **apoorvjain162@gmail.com**
 
